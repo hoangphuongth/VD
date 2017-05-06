@@ -1,0 +1,5 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\QL_Kho\DAL\bin\Debug\DAL.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\QL_Kho\DAL\bin\Debug\DAL.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\QL_Kho\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2015\Projects\QL_Kho\DAL\obj\Debug\DAL.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\QL_Kho\DAL\obj\Debug\DAL.pdb
